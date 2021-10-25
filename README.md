@@ -18,8 +18,6 @@ Carry out all work in your local filesystem using VS Code, as you will
 need to send them back to Github.
 
 1. Create a scratch org (or connect to an existing one)
-1. Edit the class `force-app/main/default/classes/Homework.cls` and add the code
-   requested in the comments. 
 1. Push the code to your scratch org - this will check that your code compiles
 
 ## Exercises
@@ -99,7 +97,7 @@ Add `keirbowden` as a [collaborator](https://docs.github.com/en/github/setting-u
 
 The commands below are if you are using Git from the command line - you can also use the VS Code built-in [source control functionality](https://code.visualstudio.com/docs/editor/versioncontrol).
 
-Stage your updated Homework class using the following command: 
+Stage your new classes using the following command: 
 
 `git add force-app/main/default/classes`
 
